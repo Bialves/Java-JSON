@@ -3,10 +3,6 @@ public class Carro {
     private String cor;
     private String placa;
 
-    /*
-        Necessita um construtor vazio, para evitar
-        exceções de leitura e gravação do JSON
-     */
     public Carro(String marca, String cor, String placa){
         this.marca = marca;
         this.cor = cor;
