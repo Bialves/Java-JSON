@@ -1,0 +1,17 @@
+[
+   {
+      "marca":"Fiat",
+      "cor":"amarelo",
+      "placa":"XXX-000"
+   },
+   {
+      "marca":"Audi",
+      "cor":"cinza",
+      "placa":"XXX-111"
+   },
+   {
+      "marca":"BMW",
+      "cor":"preto",
+      "placa":"XXX-222"
+   }
+]
