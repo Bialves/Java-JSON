@@ -1,4 +1,6 @@
 # Java-JSON
+<img alt="Static Badge" src="https://img.shields.io/badge/LICEN%C3%87A-APACHE_2.0-black">
+
 Repositório criado com o intuito de armazenar instruções básicas de manipulação de arquivos JSON, utilizando a biblioteca Gson para conversão de objetos Java em JSON e vice-versa.
 
 ### Descrição
